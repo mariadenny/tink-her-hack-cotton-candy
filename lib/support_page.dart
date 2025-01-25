@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'meditation_page.dart';
 import 'bmi_calculator_page.dart';
+import 'bot.dart';
 
 class SupportPage extends StatelessWidget {
   const SupportPage({super.key});
@@ -91,6 +92,16 @@ class SupportPage extends StatelessWidget {
             ),
           ],
         ),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const ChatBotPage()),
+          );
+        },
+        backgroundColor: const Color(0xFF3A5A40),
+        child: const Icon(Icons.chat, color: Colors.white),
       ),
     );
   }
