@@ -39,5 +39,5 @@ flutter:
   #     fonts:
   #       - asset: fonts/YourFontFile.ttf
 
-  assets:
+assets:
     - assets/relaxing-meditation-231762.mp3
