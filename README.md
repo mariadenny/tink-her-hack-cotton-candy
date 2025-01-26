@@ -18,22 +18,32 @@ The app is designed as a health management tool to assist users. It aims to empo
 
 ### The Problem statement
 Chronic conditions such as diabetes, cholesterol, and hypertension require consistent monitoring and management. However, many patients face challenges such as:
+
 1.Forgetting to take medications on time.
+
 2.Difficulty scheduling and keeping track of health checkups.
+
 3.Uncertainty when immediate health-related questions arise.
+
 4.Lack of tools to manage emergencies effectively.
+
 These gaps often lead to complications, reduced quality of life, and increased healthcare costs. There’s a need for an easy-to-use, reliable tool to assist users in managing their health.
 
 ### The Solution
 The app addresses the above problems through the following features:
 
 Core Features:
+
 1.Medicine Reminders: Sends notifications to ensure users take medications on time.
+
 2.Missed Dose Notifications: Alerts immediate contacts if the user misses doses consistently.
+
 3.Health Checkup Reminders: Prompts users to schedule regular medical checkups based on their condition.
 
 Additional Features:
+
 1.Chatbot: Answers basic health-related questions and offers guidance for managing chronic conditions.
+
 2.Guided Meditation
 
 ## Technical Details
