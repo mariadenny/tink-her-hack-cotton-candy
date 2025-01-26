@@ -6,9 +6,12 @@ import 'medicine_model.dart';
 import 'medicine_dialog.dart';
 import 'support_page.dart';
 import 'package:intl/intl.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 
-void main() {
-  runApp(const MyApp());
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Hive.initFlutter();
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
