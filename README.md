@@ -66,6 +66,10 @@ It shows the home page with a calendar for adding medicine reminders.
 [Support page](https://github.com/user-attachments/assets/f3987021-5116-40ae-a60b-ab860cebb620)
 It shows the support page which has 2 features namely, Guided Meditation and BMI calculator
 
+[UI Design](https://github.com/user-attachments/assets/1f6b3de6-4100-465f-b0b3-761826cab6f9)The UI was designed taking this as reference , this was designed on figma.
+
+
+
 ### Project Demo
 # Video
 (https://drive.google.com/file/d/16IFj7ATNAAeS5YBJGR8Fnt2eWnPdaV66/view?usp=drive_link)
