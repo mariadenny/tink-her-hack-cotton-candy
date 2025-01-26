@@ -56,7 +56,7 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 [Splash screen](https://github.com/user-attachments/assets/2b9c9163-3ad1-4679-8dd4-52f0bcb096cb)
 It shows the splash screen of the app.
 
